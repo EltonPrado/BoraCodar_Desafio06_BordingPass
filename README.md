@@ -14,7 +14,7 @@ O projeto do bording pass foi desenvolvido durante os desafios do #BoraCodar da 
 
 Quer conferir como ficou o bording pass? 
 
-[Visite o projeto online]()
+[Visite o projeto online](https://eltonprado.github.io/BoraCodar_Desafio06_BordingPass/)
 
 <br>
 
